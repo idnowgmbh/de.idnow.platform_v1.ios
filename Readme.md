@@ -24,7 +24,7 @@
         ReadID_UI.xcframework
         ReadID.xcframework
         XS2AiOSNetService.xcframework
-        FaceTecSDK.xcframework:
+        FaceTecSDK.xcframework
 
     make sure they are "embed and sign"
 
