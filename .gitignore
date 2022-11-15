@@ -1,0 +1,14 @@
+#####
+# Xcode
+
+*.swp
+*~.nib
+
+unified_example_app/build/
+unified_example_app/Docs/
+unified_example_app/External/
+
+*.pbxuser
+*.perspective
+*.perspectivev3
+xcuserdata

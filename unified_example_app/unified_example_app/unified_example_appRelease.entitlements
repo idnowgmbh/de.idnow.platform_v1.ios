@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:go.dev.idnow.de</string>
+		<string>applinks:go.dev2.idnow.de</string>
+		<string>applinks:go.test.idnow.de</string>
+		<string>applinks:go.idnow.de</string>
+		<string>applinks:go.online-ident.ch</string>
+		<string>applinks:go.test2.idnow.de</string>
+		<string>applinks:go.test3.idnow.de</string>
+		<string>applinks:go.dev0.idnow.de</string>
+		<string>applinks:go.dev1.idnow.de</string>
+		<string>applinks:go.dev3.idnow.de</string>
+		<string>applinks:go.dev4.idnow.de</string>
+		<string>applinks:go.dev5.idnow.de</string>
+		<string>applinks:go.dev6.idnow.de</string>
+		<string>applinks:go.dev7.idnow.de</string>
+		<string>applinks:go.dev8.idnow.de</string>
+		<string>applinks:go.dev9.idnow.de</string>
+	</array>
+	<key>com.apple.developer.nfc.readersession.formats</key>
+	<array>
+		<string>NDEF</string>
+		<string>TAG</string>
+	</array>
+</dict>
+</plist>
